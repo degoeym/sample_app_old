@@ -7,6 +7,7 @@ gem 'rails', '4.1.6'
 #gem 'rails', '4.0.8' // used by the Rails Totorial book
 gem 'bootstrap-sass', '2.3.2.0'
 gem 'sprockets', '2.11.0'
+gem 'bcrypt-ruby', '3.1.2'
 
 # Use sqlite3 as the database for Active Record
 group :development, :test do
